@@ -67,12 +67,11 @@ With hot tasty meals, relaxing snacks and cool refreshing drinks, take a look at
 
       <div id='golfCard'>
    
-      <Image
+      <img
                   id="colon2"
                   src="/Assests/breakfast.avif"
                   alt=""
-                  width={100}
-                  height={100}
+               
                 />
                    <div>
              <h2>Breakfasts</h2> 
