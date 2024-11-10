@@ -1,21 +1,18 @@
 import React from 'react'
-import Image from "next/image";
 
 const About = () => {
   return (
     <div className="About">
             <div id="about-us">
               <div className="img">
-                <Image
+                <img
                   alt="logo"
-                  width={100}
-                  height={50}
+                 
                   src="/Assests/img1.avif"
                 />
-                <Image
+                <img
                   alt="logo"
-                  width={100}
-                  height={50}
+               
                   src="/Assests/img2.avif"
                 />
               </div>
