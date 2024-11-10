@@ -8,7 +8,7 @@ height : auto;
 width: 100vw;
 background-color: #000;
 padding: 0 2em;
-overflow-wrap: wrap;
+overflow: hidden;
 }
 /* 
  using mobile-first approach */
