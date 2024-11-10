@@ -1,0 +1,34 @@
+
+
+import React from 'react'
+import Image from "next/image"
+
+const Course = () => {
+  return (
+    <div id='course'>
+        <div id='course-content'>
+            <h1>Explore the Course</h1>
+            <p>Become a Jurassic explorer as you delve into the land of the dinosaurs!
+
+Putt your way through prehistoric landscape, cascading waterfalls and meet some dinosaur friends along the way.
+
+Both the Dino Adventurers and Jurassic Explorers courses offer similar obstacles and challenges and are child friendly.
+
+The courses are wheelchair and pushchair accessible.</p>
+        </div>
+        <div id='course-img'>
+        <Image
+                  id="img"
+                  src="/Assests/course1.png"
+                  alt=""
+                  width={100}
+                  height={100}
+                />
+        </div>
+      
+    </div>
+  )
+  
+}
+
+export default Course
