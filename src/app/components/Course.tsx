@@ -17,12 +17,11 @@ Both the Dino Adventurers and Jurassic Explorers courses offer similar obstacles
 The courses are wheelchair and pushchair accessible.</p>
         </div>
         <div id='course-img'>
-        <Image
+        <img
                   id="img"
                   src="/Assests/course1.png"
                   alt=""
-                  width={100}
-                  height={100}
+                  
                 />
         </div>
       
