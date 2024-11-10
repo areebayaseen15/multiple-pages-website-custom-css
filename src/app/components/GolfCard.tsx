@@ -1,6 +1,5 @@
 import React from 'react'
 import Button from './Button'
-import Image from "next/image"
 
 const GolfCard = () => {
   return (
@@ -13,12 +12,11 @@ const GolfCard = () => {
 
       <div id='golfCard'>
         
-      <Image
+      <img
                   id="colon2"
                   src="/Assests/golf.avif"
                   alt=""
-                  width={100}
-                  height={100}
+                
                 />
              <div>
              <h2>INDIVIDUAL LESSONS</h2> 
