@@ -101,7 +101,7 @@ With hot tasty meals, relaxing snacks and cool refreshing drinks, take a look at
              
         
              ><Link href="/Assests/menue.pdf">
-     <Button text={"Download full menue"} />
+     <Button text={"Download"} />
              </Link>
    
 
