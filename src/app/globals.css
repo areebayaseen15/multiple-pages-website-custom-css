@@ -647,7 +647,7 @@ button:hover ~ #cursor {
 @media (min-width: 768px){
   
   #nav h4 {
-    font-size: 2em;
+    font-size: 1em;
     gap: 2;
   }
   #main-content p{
